@@ -1,3 +1,14 @@
+### Start
+
+- Vào Shopify partner:
+```
+ngoducphu99@gmail.com
+Ducphu99
+```
+
+- Login vào shop `inter-beau`
+- Dev trên theme `Inter Dev`
+
 ### Install
 
 1. Pull từ git về :
